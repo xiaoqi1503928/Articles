@@ -6,7 +6,8 @@
 #### Tool
 
 1. [Xcode8.1 生成静态Framework（包含界面、图片、第三方库、第三方framework）](http://blog.csdn.net/hong3979/article/details/72765558)
-2. [iOS Library With Resources](http://www.galloway.me.uk/tutorials/ios-library-with-resources/)
+2. [iOS Library With Resources](http://www.galloway.me.uk/tutorials/ios-library-with-resources/) 
+3. [Xcode8制作功能完备的Framework](http://epingwang.me/2017/03/17/2017-03-17-man-tan-ios-framework/)
 
 #### Third
 
